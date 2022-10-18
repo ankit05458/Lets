@@ -12,7 +12,7 @@ int main()
     cin>>a>>b;
     product = a*b;
 
-    cout<<"The product is "<<product<<endl;
+    cout<<"The product is "<<product +100 <<endl;
 
 
     return 0;
